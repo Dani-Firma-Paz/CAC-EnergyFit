@@ -37,10 +37,10 @@ Agregar H3, eslogan.
       <div>
          &nbsp;
           &nbsp;
-        <a href="https://www.linkedin.com/in/kevinpernia/" target="_blank" > 
+        <a href="" target="_blank" > 
          <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="30px"/>
         </a> 
-        <a href="https://github.com/kevin3080" target="_blank">
+        <a href="" target="_blank">
          <img src="https://skillicons.dev/icons?i=github" alt="github" width="30px" />
         </a>
       </div>
