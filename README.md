@@ -16,7 +16,7 @@ Agregar H3, eslogan.
     <div>
       <h2>Paula Fornasari</h2>
       <div>
-          <img src="" alt="Paula" style="width: 100px; height: 100px;">
+          <img src="https://avatars.githubusercontent.com/u/146784344?v=4" alt="Paula" style="width: 100px; height: 100px;">
       </div>
       <div>
           &nbsp;
@@ -24,7 +24,7 @@ Agregar H3, eslogan.
         <a href="" target="_blank" > 
          <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="30px"/>
         </a> 
-        <a href="" target="_blank">
+        <a href="https://github.com/paulita37" target="_blank">
          <img src="https://skillicons.dev/icons?i=github" alt="github" width="30px" />
         </a>
       </div>
@@ -32,7 +32,7 @@ Agregar H3, eslogan.
     <div>
       <h2>Gerardo Gans</h2>
       <div>
-          <img src="" alt="Gerardo" style="width: 100px; height:100px">
+          <img src="https://avatars.githubusercontent.com/u/113650057?v=4" alt="Gerardo" style="width: 100px; height:100px">
       </div>
       <div>
          &nbsp;
@@ -40,7 +40,7 @@ Agregar H3, eslogan.
         <a href="" target="_blank" > 
          <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="30px"/>
         </a> 
-        <a href="" target="_blank">
+        <a href="https://github.com/GerardoGans" target="_blank">
          <img src="https://skillicons.dev/icons?i=github" alt="github" width="30px" />
         </a>
       </div>
