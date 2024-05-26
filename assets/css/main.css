@@ -2261,11 +2261,11 @@ input, select, textarea {
 			}
 
 			.main > .content.style1 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #464654, #45454d, #1c74ab);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);
 			}
 
 			.main > .content.style2 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #384955, #655361, #85505f);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);
 			}
 
 			.main > .content.style3 {
