@@ -1,4 +1,4 @@
-#EnergyFit 💪
+# EnergyFit 💪
 
 ![Imagen portada Energy Fit](/GYM/images/home.jpg)
 
@@ -8,12 +8,19 @@ Agregar H3, eslogan.
 
 <hr>
 
-#Backend: colocar tecnologías
-<hr>
-#Frontend: colocar tecnologías
+# Backend: 
+colocar tecnologías
 
-<div>
-    <div>
+# Frontend: 
+- HTML
+- CSS
+- SCSS
+- JavaScript
+
+
+# Desarrolladores
+-  <div>
+     <div>
       <h2>Paula Fornasari</h2>
       <div>
           <img src="https://avatars.githubusercontent.com/u/146784344?v=4" alt="Paula" style="width: 100px; height: 100px;">
@@ -29,7 +36,7 @@ Agregar H3, eslogan.
         </a>
       </div>
     </div>
-    <div>
+     <div>
       <h2>Gerardo Gans</h2>
       <div>
           <img src="https://avatars.githubusercontent.com/u/113650057?v=4" alt="Gerardo" style="width: 100px; height:100px">
@@ -62,10 +69,8 @@ Agregar H3, eslogan.
          <img src="https://skillicons.dev/icons?i=github" alt="github" width="30px" />
         </a>
       </div>
+      </div>
     </div>
   </div>
-
 <hr>
 
-#Icons:
-		Font Awesome (fontawesome.io)
