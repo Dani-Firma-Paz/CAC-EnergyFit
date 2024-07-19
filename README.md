@@ -1,15 +1,17 @@
 # EnergyFit 💪
 
-![Imagen portada Energy Fit](/GYM/images/home.jpg)
+![Imagen portada Energy Fit](/images/portada.jpg)
 
 <hr>
 
-Agregar H3, eslogan.
+Transforma tu cuerpo, revitaliza tu mente, ¡y descubre tu fuerza en cada actividad!
 
 <hr>
 
 # Backend: 
-colocar tecnologías
+- Base de datos (MariaDB)
+- Postman
+- Express Generator
 
 # Frontend: 
 - HTML
@@ -36,22 +38,7 @@ colocar tecnologías
         </a>
       </div>
     </div>
-     <div>
-      <h2>Gerardo Gans</h2>
-      <div>
-          <img src="https://avatars.githubusercontent.com/u/113650057?v=4" alt="Gerardo" style="width: 100px; height:100px">
-      </div>
-      <div>
-         &nbsp;
-          &nbsp;
-        <a href="" target="_blank" > 
-         <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="30px"/>
-        </a> 
-        <a href="https://github.com/GerardoGans" target="_blank">
-         <img src="https://skillicons.dev/icons?i=github" alt="github" width="30px" />
-        </a>
-      </div>
-    </div>
+
     <div>
       <h2>Daniela Firma Paz</h2>
       <div>
